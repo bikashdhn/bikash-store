@@ -1,24 +1,20 @@
  {
     "jeans":[
-        {"productName":"Ripped Skinny Jeans","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"499"},
-        {"productName":"Mega Ripped Jeans","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"299"},
-        {"productName":"Ripped Skinny Jeans","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"399"},
-        {"productName":"Mega Ripped Jeans","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"599"},
-        {"productName":"Ripped Skinny Jeans","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"699"},
-        {"productName":"Mega Ripped Jeans","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"799"},
-        {"productName":"Ripped Skinny Jeans","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"899"},
-        {"productName":"Mega Ripped Jeans","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"999"}
+        {"productName":"Lee Stoned Blue Solid Skinny Fit Jeans","imageUrl":"https://raw.githubusercontent.com/bikashdhn/bikash-store/main/images/jeans/Lee%20Stoned%20Blue%20Solid%20Skinny%20Fit%20Jeans%20pr499.png","price":"499"}
     ],
     "shirt":[
-        {"productName":"Causal Shirt","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"599"},
-        {"productName":"Pink Causal Shirt","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"499"}
+        {"productName":"Killer Brand tshirt","imageUrl":"https://raw.githubusercontent.com/bikashdhn/bikash-store/main/images/shirt/Killer%20Brand%20tshirt%20pr-550.jpg","price":"549"}
     ],
     "tShirt":[
-        {"productName":"Killer T-shirt","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"399"},
-        {"productName":"Peter England T-shirt","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"299"}
+        {"productName":"Killer Brand tshirt","imageUrl":"https://raw.githubusercontent.com/bikashdhn/bikash-store/main/images/tShirt/Killer%20Brand%20tshirt%20pr-399.jpg","price":"399"},
+        {"productName":"Killer Brand tshirt","imageUrl":"https://raw.githubusercontent.com/bikashdhn/bikash-store/main/images/tShirt/Killer%20Brand%20tshirt%20pr299.jpg","price":"299"},
+        {"productName":"Killer Brand tshirt","imageUrl":"https://raw.githubusercontent.com/bikashdhn/bikash-store/main/images/tShirt/Killer%20Brand%20tshirt%20pr399.jpg","price":"399"},
+        {"productName":"Killer Brand tshirt","imageUrl":"https://raw.githubusercontent.com/bikashdhn/bikash-store/main/images/tShirt/Killer%20Brand%20tshirt%20pr400.jpg","price":"399"},
+        {"productName":"Killer Brand tshirt","imageUrl":"https://raw.githubusercontent.com/bikashdhn/bikash-store/main/images/tShirt/Killer%20Brand%20tshirt%20price399.jpg","price":"399"}
     ],
     "shoes":[
-        {"productName":"Nike Shoes","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"899"},
-        {"productName":"Nike Hill Shoes","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"999"}
+        {"productName":"Nike Brand Shoes","imageUrl":"https://raw.githubusercontent.com/bikashdhn/bikash-store/main/images/shoes/Nike%20Brand%20Shoes%20pr1499.jpeg","price":"1499"},
+        {"productName":"Nike Brand Shoes","imageUrl":"https://raw.githubusercontent.com/bikashdhn/bikash-store/main/images/shoes/Nike%20Brand%20Shoes%20pr1599.jpeg","price":"1599"},
+         {"productName":"Nike Brand Shoes","imageUrl":"https://raw.githubusercontent.com/bikashdhn/bikash-store/main/images/shoes/Nike%20Brand%20Shoes%20pr2000.jpeg","price":"1999"}
     ]
 }
