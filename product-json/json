@@ -1,0 +1,24 @@
+ {
+    "jeans":[
+        {"productName":"Ripped Skinny Jeans","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"499"},
+        {"productName":"Mega Ripped Jeans","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"299"},
+        {"productName":"Ripped Skinny Jeans","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"399"},
+        {"productName":"Mega Ripped Jeans","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"599"},
+        {"productName":"Ripped Skinny Jeans","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"699"},
+        {"productName":"Mega Ripped Jeans","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"799"},
+        {"productName":"Ripped Skinny Jeans","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"899"},
+        {"productName":"Mega Ripped Jeans","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"999"}
+    ],
+    "shirt":[
+        {"productName":"Causal Shirt","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"599"},
+        {"productName":"Pink Causal Shirt","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"499"}
+    ],
+    "tShirt":[
+        {"productName":"Killer T-shirt","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"399"},
+        {"productName":"Peter England T-shirt","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"299"}
+    ],
+    "shoes":[
+        {"productName":"Nike Shoes","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"899"},
+        {"productName":"Nike Hill Shoes","imageUrl":"https://www.w3schools.com/w3images/jeans1.jpg","price":"999"}
+    ]
+}
